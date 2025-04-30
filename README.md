@@ -1,64 +1,72 @@
+<div align="center">
+
 # 👋 Hi, I'm Taylor
 
-## Software Engineer | AI Native | Async Enthusiast
+## 💡 Full Stack Engineer | AI & GenAI Enthusiast | Web3 Developer
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Based_in-San_Francisco-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Current_Focus-Energy_Storage-informational?style=flat&logo=battery&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Focus-Energy_Storage-informational?style=flat&logo=battery&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Coding-24/7-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</p>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 
+</div>
+
+<div align="center">
 I'm a software engineer passionate about building scalable solutions in the energy storage sector. With a strong foundation in AI, GenAI, Web3, Cloud Computing, and Full Stack Development, I thrive on tackling complex technical challenges.
+</div>
+
+<div align="center">
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3498db)
+<p>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3498db" />
+</p>
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=e74c3c)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=e74c3c)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=e74c3c)
-![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=e74c3c)
-![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=e74c3c)
+<p>
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=e74c3c" />
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=e74c3c" />
+  <img src="https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=e74c3c" />
+  <img src="https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=e74c3c" />
+  <img src="https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=e74c3c" />
+</p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lllyt8&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=lllyt8&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lllyt8&theme=radical" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lllyt8&theme=radical" alt="GitHub Streak" />
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lllyt8&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophy" />
-  </a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=lllyt8&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophy" />
+</a>
 
 ## 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllyt8&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllyt8&layout=compact&theme=radical" alt="Top Languages" />
 
 ## 🚀 Featured Projects
 
 <a href="https://github.com/lllyt8/Contributor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lllyt8&repo=Contributor&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lllyt8&repo=Contributor&theme=radical" />
 </a>
 
+</div>
+
+<div align="center">
+
 ## 🌱 Current Interests
+
+</div>
 
 - Exploring cutting-edge AI models for energy optimization
 - Building decentralized applications on various blockchain platforms
@@ -66,7 +74,11 @@ I'm a software engineer passionate about building scalable solutions in the ener
 - Quantitative trading strategies for crypto markets
 - Contributing to open-source projects
 
+<div align="center">
+
 ## 🏄‍♂️ Beyond Coding
+
+</div>
 
 When I'm not coding, you'll find me:
 - Surfing the waves around San Francisco
@@ -74,10 +86,26 @@ When I'm not coding, you'll find me:
 - Capturing nature through photography
 - Trading crypto and researching new investment strategies
 
+<div align="center">
+
 ## 📫 Let's Connect
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lllyt8)
+<p>
+  <a href="https://www.linkedin.com/in/yourlinkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lllyt8">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=lllyt8&color=green" alt="Profile views" />
+
+</div>
+
+<!-- Inspired by many awesome GitHub profiles -->
 
 ---
 
