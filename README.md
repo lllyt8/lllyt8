@@ -29,20 +29,31 @@ I'm a software engineer passionate about building scalable solutions in the ener
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lllyt8&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lllyt8&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lllyt8&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophy" />
+  </a>
+</p>
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllyt8&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/YOUR_USERNAME/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical" />
+<a href="https://github.com/lllyt8/Contributor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lllyt8&repo=Contributor&theme=radical" />
 </a>
 
 ## 🌱 Current Interests
@@ -63,20 +74,13 @@ When I'm not coding, you'll find me:
 
 ## 📫 Let's Connect
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lllyt8)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green" alt="Profile views" />
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues">
-    <img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_USERNAME" alt="Issues" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/network/members">
-    <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_USERNAME" alt="Forks" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=lllyt8&color=green" alt="Profile views" />
 </p>
 
 <!-- Inspired by many awesome GitHub profiles -->
