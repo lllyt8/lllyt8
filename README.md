@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Taylor
 
-## 💡 Full Stack Engineer | AI & GenAI Enthusiast | Web3 
+## Software Engineer | AI Native | Async Enthusiast
 
-![](https://img.shields.io/badge/Based_in-San_Francisco-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Current_Focus-Energy_Storage-informational?style=flat&logo=battery&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Coding-24/7-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+<p align="center">
+  ![](https://img.shields.io/badge/Based_in-San_Francisco-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Current_Focus-Energy_Storage-informational?style=flat&logo=battery&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Coding-24/7-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
