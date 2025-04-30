@@ -54,6 +54,8 @@ I'm a software engineer passionate about building scalable solutions in the ener
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllyt8&layout=compact&theme=radical" alt="Top Languages" />
 
+
+<!--
 ## 🚀 Featured Projects
 
 <a href="https://github.com/lllyt8/Contributor">
@@ -62,12 +64,6 @@ I'm a software engineer passionate about building scalable solutions in the ener
 
 </div>
 
-
-<!-- Inspired by many awesome GitHub profiles
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lllyt8&color=green" alt="Profile views" />
 </p>
-
-<!-- Inspired by many awesome GitHub profiles -->
--->
