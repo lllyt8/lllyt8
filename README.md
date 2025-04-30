@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Taylor. A Software Engineer && AI Native
+# 👋 Hi, I'm Taylor. A Software Engineer & AI Native.
 
 <p>
   <img src="https://img.shields.io/badge/Based_in-San_Francisco-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a" />
