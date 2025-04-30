@@ -23,15 +23,15 @@ I'm a software engineer passionate about building scalable solutions in the ener
 ## 🔧 Technologies & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=javascript&logoColor=white&color=3498db" />
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=javascript&logoColor=white&color=3498db" />
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=javascript&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=3498db" />
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3498db" />
-  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=javascript&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=3498db" />
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3498db" />
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3498db" />
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=javascript&logoColor=white&color=3498db" />
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=3498db" />
   <img src="https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3498db" />
 </p>
 
