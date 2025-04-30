@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Based_in-San_Francisco-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Focus-Cloud_Native-informational?style=flat&logo=battery&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Focus-Data_Driven_Cloud_Native-informational?style=flat&logo=battery&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Coding-24/7-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" />
 </p>
 
