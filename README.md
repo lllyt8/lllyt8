@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-I'm a software engineer passionate about building scalable solutions in the energy storage sector. With a strong foundation in AI, GenAI, Web3, Cloud Computing, and Full Stack Development, I thrive on tackling complex technical challenges.
+I’m a software engineer with a strong foundation in AI, GenAI, Web3, Cloud Computing, and Full Stack Development. I’m passionate about building scalable products and working across teams to deliver solutions that drive meaningful business impact.
 </div>
 
 <div align="center">
