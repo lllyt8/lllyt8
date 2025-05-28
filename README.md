@@ -14,7 +14,7 @@
 
 <div align="center">
 <p>
-I’m a software engineer with a strong foundation in AI, Web3, Cloud, Full Stack Development, and Energy Solutions.<br> 
+I’m a software engineer with a strong foundation in AI, System Design, and Energy Solutions.<br> 
 I’m passionate about building scalable products and working across teams to deliver solutions that drive meaningful business impact.
 </p>
 </div>
