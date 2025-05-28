@@ -13,7 +13,10 @@
 </div>
 
 <div align="center">
-I’m a software engineer with a strong foundation in AI, GenAI, Web3, Cloud Computing, Full Stack Development, and Energy Solutions. I’m passionate about building scalable products and working across teams to deliver solutions that drive meaningful business impact.
+<p>
+I’m a software engineer with a strong foundation in AI, Web3, Cloud, Full Stack Development, and Energy Solutions. 
+I’m passionate about building scalable products and working across teams to deliver solutions that drive meaningful business impact.
+</p>
 </div>
 
 <div align="center">
