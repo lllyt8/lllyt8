@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Taylor. A Software Engineer & AI Native.
+# 👋 Hi, I'm Taylor.
 
 <p>
   <img src="https://img.shields.io/badge/Based_in-San_Francisco-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a" />
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-I’m a software engineer with a strong foundation in AI, GenAI, Web3, Cloud Computing, and Full Stack Development. I’m passionate about building scalable products and working across teams to deliver solutions that drive meaningful business impact.
+I’m a software engineer with a strong foundation in AI, GenAI, Web3, Cloud Computing, Full Stack Development, and Energy Solutions. I’m passionate about building scalable products and working across teams to deliver solutions that drive meaningful business impact.
 </div>
 
 <div align="center">
