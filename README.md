@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Coding-24/7-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" />
 </p>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-
 </div>
 
 <div align="center">
@@ -43,21 +41,6 @@ I’m passionate about building scalable products and working across teams to de
   <img src="https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=e74c3c" />
   <img src="https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=e74c3c" />
 </p>
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lllyt8&theme=radical" alt="GitHub Streak" />
-
-## 🏆 GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=lllyt8&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophy" />
-</a>
-
-## 📈 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllyt8&layout=compact&theme=radical" alt="Top Languages" />
-
 
 <!--
 ## 🚀 Featured Projects
