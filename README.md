@@ -43,8 +43,6 @@ I’m a software engineer with a strong foundation in AI, GenAI, Web3, Cloud Com
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lllyt8&show_icons=true&theme=radical" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lllyt8&theme=radical" alt="GitHub Streak" />
 
 ## 🏆 GitHub Trophies
