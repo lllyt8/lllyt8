@@ -19,7 +19,7 @@ I’m passionate about building scalable products and working across teams to de
 
 <div align="center">
 
-## 🔧 Technologies & Tools
+## My Skills
 
 <p>
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=3498db" />
