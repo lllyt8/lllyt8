@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Taylor.
+# Hi, I'm Taylor.
 
 <p>
   <img src="https://img.shields.io/badge/Based_in-San_Francisco-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a" />
@@ -12,7 +12,7 @@
 
 <div align="center">
 <p>
-I’m a software engineer with a strong foundation in AI, System Design, and Energy Solutions.<br> 
+I’m a software developer with strong experience in Front/Backend Development, DevOps, CI/CD, System/AI Infra.<br> 
 I’m passionate about building scalable products and working across teams to deliver solutions that drive meaningful business impact.
 </p>
 </div>
