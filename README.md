@@ -42,6 +42,8 @@ I’m passionate about building scalable products and working across teams to de
   <img src="https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=e74c3c" />
 </p>
 
+</div>
+
 <!--
 ## 🚀 Featured Projects
 
@@ -49,8 +51,7 @@ I’m passionate about building scalable products and working across teams to de
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lllyt8&repo=Contributor&theme=radical" />
 </a>
 
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lllyt8&color=green" alt="Profile views" />
 </p>
+-->
